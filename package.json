@@ -1,0 +1,12 @@
+{
+    "name": "record_Ice_block",
+    "description": "this node is to record only Ice Block",
+    "version": "0.0.1",
+    "dependencies": {},
+    "node-red": {
+        "settings": {
+            "flowFile": "flow.json",
+            "credentialsFile": "flow_cred.json"
+        }
+    }
+}

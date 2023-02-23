@@ -1,0 +1,2599 @@
+[
+    {
+        "id": "a0db6ce034b30ef3",
+        "type": "tab",
+        "label": "Flow 1",
+        "disabled": false,
+        "info": "",
+        "env": []
+    },
+    {
+        "id": "5e8d10f7e876d5b0",
+        "type": "group",
+        "z": "a0db6ce034b30ef3",
+        "style": {
+            "stroke": "#999999",
+            "stroke-opacity": "1",
+            "fill": "none",
+            "fill-opacity": "1",
+            "label": true,
+            "label-position": "nw",
+            "color": "#a4a4a4"
+        },
+        "nodes": [
+            "e1d6beb76e09c644",
+            "0a0ecb3a1373e64c",
+            "592c00f0b4072609",
+            "3675424dcda05c18",
+            "37b3e4896ab9a4c3",
+            "c7a31bd0641a7f74"
+        ],
+        "x": 94,
+        "y": 79,
+        "w": 752,
+        "h": 242
+    },
+    {
+        "id": "d71d18285f1ccc46",
+        "type": "group",
+        "z": "a0db6ce034b30ef3",
+        "style": {
+            "stroke": "#999999",
+            "stroke-opacity": "1",
+            "fill": "none",
+            "fill-opacity": "1",
+            "label": true,
+            "label-position": "nw",
+            "color": "#a4a4a4"
+        },
+        "nodes": [
+            "13ea43033283ee8d",
+            "adf34398569a5873",
+            "41f63d8d57cfb22d",
+            "5f163a7adb75e73d",
+            "a992e66bdb3ef6dd"
+        ],
+        "x": 94,
+        "y": 339,
+        "w": 692,
+        "h": 142
+    },
+    {
+        "id": "ee15abc44773f48f",
+        "type": "group",
+        "z": "a0db6ce034b30ef3",
+        "style": {
+            "stroke": "#999999",
+            "stroke-opacity": "1",
+            "fill": "none",
+            "fill-opacity": "1",
+            "label": true,
+            "label-position": "nw",
+            "color": "#a4a4a4"
+        },
+        "nodes": [
+            "84ebf77b589c6963",
+            "3766c59ab1518f95",
+            "df53b4eac10ca699",
+            "98c5639041a03384",
+            "6e2bdc1ce01cee76",
+            "7e944fe4bac7f759",
+            "6ecf9a154d41945d",
+            "b40a333ed64cdd32",
+            "76e6fda72b7b8c44",
+            "773253b369745691",
+            "bb9cc6af789e633d",
+            "c189faef3c24b0e4",
+            "8589edd65885937d",
+            "33b4ad7d5665e42f",
+            "60743161ce3b5f14"
+        ],
+        "x": 134,
+        "y": 1399,
+        "w": 1062,
+        "h": 362
+    },
+    {
+        "id": "97d556f27767bac6",
+        "type": "group",
+        "z": "a0db6ce034b30ef3",
+        "style": {
+            "stroke": "#999999",
+            "stroke-opacity": "1",
+            "fill": "none",
+            "fill-opacity": "1",
+            "label": true,
+            "label-position": "nw",
+            "color": "#a4a4a4"
+        },
+        "nodes": [
+            "8578932cc6730394",
+            "207486ab2f2de184",
+            "7d416ec2fb309bd1",
+            "6346a6c4f01716c9",
+            "f4715edaca7161b5",
+            "982f50922e1c270b",
+            "a8e77f04fbbaf221",
+            "e9e706f565b7235e",
+            "92be33d019815c04",
+            "afa1df5e758dcf85"
+        ],
+        "x": 84,
+        "y": 2439,
+        "w": 952,
+        "h": 262
+    },
+    {
+        "id": "0a6927b64e6c19a6",
+        "type": "group",
+        "z": "a0db6ce034b30ef3",
+        "style": {
+            "stroke": "#999999",
+            "stroke-opacity": "1",
+            "fill": "none",
+            "fill-opacity": "1",
+            "label": true,
+            "label-position": "nw",
+            "color": "#a4a4a4"
+        },
+        "nodes": [
+            "9eaffe53f7590a3d",
+            "ba164b0043c2cbf3",
+            "2c6744606bc87319",
+            "990b0545b353d080",
+            "2b49181123ddf771",
+            "7f57a06c5ad2d8bf",
+            "4aadd9d8d8e90714",
+            "e59ec3b636a668db",
+            "ffa8301427a50f58",
+            "0c43f3e0f68ba4cb",
+            "7e555b1035ec138a",
+            "6b300b4862fb9f1b"
+        ],
+        "x": 94,
+        "y": 519,
+        "w": 1092,
+        "h": 262
+    },
+    {
+        "id": "a73da6955739f5ba",
+        "type": "group",
+        "z": "a0db6ce034b30ef3",
+        "style": {
+            "stroke": "#999999",
+            "stroke-opacity": "1",
+            "fill": "none",
+            "fill-opacity": "1",
+            "label": true,
+            "label-position": "nw",
+            "color": "#a4a4a4"
+        },
+        "nodes": [
+            "28088b28c5431dd3",
+            "09acac09f99fb720",
+            "957d1a47b5bf6382",
+            "32b575af675d14ab",
+            "ca7fa6039d939b0b",
+            "7d6ead97e2ac05ee"
+        ],
+        "x": 1384,
+        "y": 1419,
+        "w": 702,
+        "h": 342
+    },
+    {
+        "id": "fad2368d94a71127",
+        "type": "group",
+        "z": "a0db6ce034b30ef3",
+        "style": {
+            "stroke": "#999999",
+            "stroke-opacity": "1",
+            "fill": "none",
+            "fill-opacity": "1",
+            "label": true,
+            "label-position": "nw",
+            "color": "#a4a4a4"
+        },
+        "nodes": [
+            "428c7a9ae0c7b048",
+            "cce41e5830bbb89e",
+            "d61b880f7e801e85",
+            "981b38252a68f3f9",
+            "6e1656c82c90d634",
+            "d5450b08de19b958",
+            "d2f1db7314d802a4",
+            "ad28597e8a1ff1cc",
+            "429581741fb59c25",
+            "553ce8588a3a1d65",
+            "9279ec5a1f499e56",
+            "623c895235fcf66c",
+            "39b1e2260c0d72a3",
+            "601ed82179a1ef6a",
+            "82b16bf3fb3acf01",
+            "38f1c0c682e96b7d",
+            "6f7e3232bbdf39d5",
+            "1784a38088855ede",
+            "cf9b22a13cb3bb0c",
+            "814ac7f92665f96a",
+            "d3fd7b87dde4dec7",
+            "3aef94fe447979c3",
+            "8696ad04c13cef13",
+            "56dd4533f81d7b84"
+        ],
+        "x": 84,
+        "y": 799,
+        "w": 2272,
+        "h": 462
+    },
+    {
+        "id": "4ba4971ee866d46b",
+        "type": "group",
+        "z": "a0db6ce034b30ef3",
+        "style": {
+            "stroke": "#999999",
+            "stroke-opacity": "1",
+            "fill": "none",
+            "fill-opacity": "1",
+            "label": true,
+            "label-position": "nw",
+            "color": "#a4a4a4"
+        },
+        "nodes": [
+            "798f2672fcda7091",
+            "113d443570f8239d",
+            "9d1bf73887cacf8c",
+            "4518b3c04fdd0f5e",
+            "b7bfafd38623a54c",
+            "8ef22bb42923de07",
+            "73f726a8252e6e7d",
+            "b33c8a4a9959f42b",
+            "70349327a98e0a1e",
+            "e33fe516b72d6077",
+            "9fcd0bb1347eb02a",
+            "feebb0f586f35c13",
+            "9a9cfea81577d4ce",
+            "34d15c6b44893cac",
+            "7e59a1311a72f5ca",
+            "bd938854d8fd5a1d",
+            "233aac7f01187a2e",
+            "f92a41c5aaa0f712",
+            "985b6f3d937fb3fe",
+            "1ceaf5dacdf7a03a",
+            "33cc8f44da6120df",
+            "de1a3ddc49c749db",
+            "ec602670db75cc67",
+            "fe359bb3ebc89f93"
+        ],
+        "x": 114,
+        "y": 1779,
+        "w": 1352,
+        "h": 522
+    },
+    {
+        "id": "5ddfb580d1178833",
+        "type": "ui_base",
+        "theme": {
+            "name": "theme-light",
+            "lightTheme": {
+                "default": "#0094CE",
+                "baseColor": "#0094CE",
+                "baseFont": "-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Oxygen-Sans,Ubuntu,Cantarell,Helvetica Neue,sans-serif",
+                "edited": true,
+                "reset": false
+            },
+            "darkTheme": {
+                "default": "#097479",
+                "baseColor": "#097479",
+                "baseFont": "-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Oxygen-Sans,Ubuntu,Cantarell,Helvetica Neue,sans-serif",
+                "edited": false
+            },
+            "customTheme": {
+                "name": "Untitled Theme 1",
+                "default": "#4B7930",
+                "baseColor": "#4B7930",
+                "baseFont": "-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Oxygen-Sans,Ubuntu,Cantarell,Helvetica Neue,sans-serif"
+            },
+            "themeState": {
+                "base-color": {
+                    "default": "#0094CE",
+                    "value": "#0094CE",
+                    "edited": false
+                },
+                "page-titlebar-backgroundColor": {
+                    "value": "#0094CE",
+                    "edited": false
+                },
+                "page-backgroundColor": {
+                    "value": "#fafafa",
+                    "edited": false
+                },
+                "page-sidebar-backgroundColor": {
+                    "value": "#ffffff",
+                    "edited": false
+                },
+                "group-textColor": {
+                    "value": "#1bbfff",
+                    "edited": false
+                },
+                "group-borderColor": {
+                    "value": "#ffffff",
+                    "edited": false
+                },
+                "group-backgroundColor": {
+                    "value": "#ffffff",
+                    "edited": false
+                },
+                "widget-textColor": {
+                    "value": "#111111",
+                    "edited": false
+                },
+                "widget-backgroundColor": {
+                    "value": "#0094ce",
+                    "edited": false
+                },
+                "widget-borderColor": {
+                    "value": "#ffffff",
+                    "edited": false
+                },
+                "base-font": {
+                    "value": "-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Oxygen-Sans,Ubuntu,Cantarell,Helvetica Neue,sans-serif"
+                }
+            },
+            "angularTheme": {
+                "primary": "indigo",
+                "accents": "blue",
+                "warn": "red",
+                "background": "grey",
+                "palette": "light"
+            }
+        },
+        "site": {
+            "name": "Node-RED Dashboard",
+            "hideToolbar": "false",
+            "allowSwipe": "false",
+            "lockMenu": "false",
+            "allowTempTheme": "true",
+            "dateFormat": "DD/MM/YYYY",
+            "sizes": {
+                "sx": 48,
+                "sy": 48,
+                "gx": 6,
+                "gy": 6,
+                "cx": 6,
+                "cy": 6,
+                "px": 0,
+                "py": 0
+            }
+        }
+    },
+    {
+        "id": "4b9c376f069a435e",
+        "type": "ui_tab",
+        "name": "record ice block",
+        "icon": "dashboard",
+        "order": 1,
+        "disabled": false,
+        "hidden": false
+    },
+    {
+        "id": "0d406a78f17f7091",
+        "type": "ui_group",
+        "name": "ice block",
+        "tab": "4b9c376f069a435e",
+        "order": 1,
+        "disp": true,
+        "width": "14",
+        "collapse": false,
+        "className": ""
+    },
+    {
+        "id": "fbeba6a9d3aaf521",
+        "type": "MySQLdatabase",
+        "name": "",
+        "host": "127.0.0.1",
+        "port": "3306",
+        "db": "data_registration_driver",
+        "tz": "UTC+7",
+        "charset": "UTF8"
+    },
+    {
+        "id": "efb52f8bbebead6d",
+        "type": "ui_group",
+        "name": "Upate",
+        "tab": "4b9c376f069a435e",
+        "order": 2,
+        "disp": true,
+        "width": "14",
+        "collapse": false,
+        "className": ""
+    },
+    {
+        "id": "480c3f0eafeac99a",
+        "type": "ui_spacer",
+        "z": "a0db6ce034b30ef3",
+        "name": "spacer",
+        "group": "0d406a78f17f7091",
+        "order": 5,
+        "width": 14,
+        "height": 1
+    },
+    {
+        "id": "fcca4b7734926aff",
+        "type": "ui_spacer",
+        "z": "a0db6ce034b30ef3",
+        "name": "spacer",
+        "group": "efb52f8bbebead6d",
+        "order": 3,
+        "width": 14,
+        "height": 1
+    },
+    {
+        "id": "e1d6beb76e09c644",
+        "type": "comment",
+        "z": "a0db6ce034b30ef3",
+        "g": "5e8d10f7e876d5b0",
+        "name": "generate time and date",
+        "info": "",
+        "x": 240,
+        "y": 120,
+        "wires": []
+    },
+    {
+        "id": "0a0ecb3a1373e64c",
+        "type": "inject",
+        "z": "a0db6ce034b30ef3",
+        "g": "5e8d10f7e876d5b0",
+        "name": "",
+        "props": [
+            {
+                "p": "payload"
+            },
+            {
+                "p": "topic",
+                "vt": "str"
+            }
+        ],
+        "repeat": "1",
+        "crontab": "",
+        "once": true,
+        "onceDelay": 0.1,
+        "topic": "",
+        "payload": "",
+        "payloadType": "date",
+        "x": 210,
+        "y": 200,
+        "wires": [
+            [
+                "592c00f0b4072609"
+            ]
+        ]
+    },
+    {
+        "id": "592c00f0b4072609",
+        "type": "function",
+        "z": "a0db6ce034b30ef3",
+        "g": "5e8d10f7e876d5b0",
+        "name": "function 1",
+        "func": "var time  = new Date()\nmsg.payload = time;\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 410,
+        "y": 200,
+        "wires": [
+            [
+                "3675424dcda05c18",
+                "37b3e4896ab9a4c3"
+            ]
+        ]
+    },
+    {
+        "id": "3675424dcda05c18",
+        "type": "debug",
+        "z": "a0db6ce034b30ef3",
+        "g": "5e8d10f7e876d5b0",
+        "name": "debug 1",
+        "active": false,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "false",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 560,
+        "y": 200,
+        "wires": []
+    },
+    {
+        "id": "37b3e4896ab9a4c3",
+        "type": "simpletime",
+        "z": "a0db6ce034b30ef3",
+        "g": "5e8d10f7e876d5b0",
+        "name": "",
+        "mydate": false,
+        "myymd": true,
+        "myyear": false,
+        "mymonth": false,
+        "mymonthn": false,
+        "mydom": false,
+        "mydoy": false,
+        "myday": false,
+        "myhourpm": false,
+        "myhour": false,
+        "mytime": false,
+        "mytimes": true,
+        "myminute": false,
+        "myminutes": false,
+        "mysecond": false,
+        "mymillis": false,
+        "myepoch": false,
+        "myrawdate": false,
+        "mypm": false,
+        "x": 580,
+        "y": 280,
+        "wires": [
+            [
+                "c7a31bd0641a7f74"
+            ]
+        ]
+    },
+    {
+        "id": "c7a31bd0641a7f74",
+        "type": "function",
+        "z": "a0db6ce034b30ef3",
+        "g": "5e8d10f7e876d5b0",
+        "name": "function 2",
+        "func": "var time = msg.mytimes;\nvar date = msg.myymd;\n\nglobal.set('time',time);\nglobal.set('date',date);\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 760,
+        "y": 280,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "9eaffe53f7590a3d",
+        "type": "ui_text",
+        "z": "a0db6ce034b30ef3",
+        "g": "0a6927b64e6c19a6",
+        "group": "0d406a78f17f7091",
+        "order": 1,
+        "width": 0,
+        "height": 0,
+        "name": "",
+        "label": "ឈ្មោះ",
+        "format": "{{msg.payload}}",
+        "layout": "row-spread",
+        "className": "name",
+        "x": 970,
+        "y": 660,
+        "wires": []
+    },
+    {
+        "id": "13ea43033283ee8d",
+        "type": "ui_text",
+        "z": "a0db6ce034b30ef3",
+        "g": "d71d18285f1ccc46",
+        "group": "0d406a78f17f7091",
+        "order": 2,
+        "width": 0,
+        "height": 0,
+        "name": "",
+        "label": "ម៉ោង",
+        "format": "{{msg.payload}}",
+        "layout": "row-spread",
+        "className": "clock",
+        "x": 670,
+        "y": 400,
+        "wires": []
+    },
+    {
+        "id": "adf34398569a5873",
+        "type": "ui_text",
+        "z": "a0db6ce034b30ef3",
+        "g": "d71d18285f1ccc46",
+        "group": "0d406a78f17f7091",
+        "order": 3,
+        "width": 0,
+        "height": 0,
+        "name": "",
+        "label": "កាលបរិច្ឆេទ",
+        "format": "{{msg.payload}}",
+        "layout": "row-spread",
+        "className": "date",
+        "x": 690,
+        "y": 440,
+        "wires": []
+    },
+    {
+        "id": "41f63d8d57cfb22d",
+        "type": "function",
+        "z": "a0db6ce034b30ef3",
+        "g": "d71d18285f1ccc46",
+        "name": "function 3",
+        "func": "var time = global.get('time');\nvar date = global.get('date');\n\nvar msg1 = {payload: time};\nvar msg2 = {payload: date};\n\nreturn [msg1,msg2];",
+        "outputs": 2,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 420,
+        "y": 440,
+        "wires": [
+            [
+                "13ea43033283ee8d"
+            ],
+            [
+                "adf34398569a5873"
+            ]
+        ]
+    },
+    {
+        "id": "5f163a7adb75e73d",
+        "type": "inject",
+        "z": "a0db6ce034b30ef3",
+        "g": "d71d18285f1ccc46",
+        "name": "",
+        "props": [
+            {
+                "p": "payload"
+            },
+            {
+                "p": "topic",
+                "vt": "str"
+            }
+        ],
+        "repeat": "1",
+        "crontab": "",
+        "once": true,
+        "onceDelay": 0.1,
+        "topic": "",
+        "payload": "",
+        "payloadType": "date",
+        "x": 210,
+        "y": 440,
+        "wires": [
+            [
+                "41f63d8d57cfb22d"
+            ]
+        ]
+    },
+    {
+        "id": "a992e66bdb3ef6dd",
+        "type": "comment",
+        "z": "a0db6ce034b30ef3",
+        "g": "d71d18285f1ccc46",
+        "name": "display date and time",
+        "info": "",
+        "x": 250,
+        "y": 380,
+        "wires": []
+    },
+    {
+        "id": "ba164b0043c2cbf3",
+        "type": "function",
+        "z": "a0db6ce034b30ef3",
+        "g": "0a6927b64e6c19a6",
+        "name": "variable customer name",
+        "func": "global.set('customer_name', msg.payload[0].name);\nglobal.set('rfid', msg.payload[0].rfid);\n\nvar customer_name = global.get('customer_name');\nmsg.payload = customer_name;\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 750,
+        "y": 660,
+        "wires": [
+            [
+                "9eaffe53f7590a3d"
+            ]
+        ]
+    },
+    {
+        "id": "2c6744606bc87319",
+        "type": "inject",
+        "z": "a0db6ce034b30ef3",
+        "g": "0a6927b64e6c19a6",
+        "name": "",
+        "props": [
+            {
+                "p": "payload"
+            },
+            {
+                "p": "topic",
+                "vt": "str"
+            }
+        ],
+        "repeat": "",
+        "crontab": "",
+        "once": false,
+        "onceDelay": 0.1,
+        "topic": "",
+        "payload": "1234",
+        "payloadType": "num",
+        "x": 260,
+        "y": 740,
+        "wires": [
+            [
+                "2b49181123ddf771"
+            ]
+        ]
+    },
+    {
+        "id": "990b0545b353d080",
+        "type": "mysql",
+        "z": "a0db6ce034b30ef3",
+        "g": "0a6927b64e6c19a6",
+        "mydb": "fbeba6a9d3aaf521",
+        "name": "",
+        "x": 530,
+        "y": 580,
+        "wires": [
+            [
+                "ba164b0043c2cbf3"
+            ]
+        ]
+    },
+    {
+        "id": "2b49181123ddf771",
+        "type": "function",
+        "z": "a0db6ce034b30ef3",
+        "g": "0a6927b64e6c19a6",
+        "name": "get the customer name",
+        "func": "\nvar rfid = msg.payload;\nmsg.topic = \"SELECT * FROM data_registration_driver.driver_register where rfid ='\"+rfid+\"' ;\"\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 360,
+        "y": 660,
+        "wires": [
+            [
+                "990b0545b353d080"
+            ]
+        ]
+    },
+    {
+        "id": "7f57a06c5ad2d8bf",
+        "type": "comment",
+        "z": "a0db6ce034b30ef3",
+        "g": "0a6927b64e6c19a6",
+        "name": "get the customer info",
+        "info": "",
+        "x": 300,
+        "y": 560,
+        "wires": []
+    },
+    {
+        "id": "84ebf77b589c6963",
+        "type": "comment",
+        "z": "a0db6ce034b30ef3",
+        "g": "ee15abc44773f48f",
+        "name": "record to table",
+        "info": "",
+        "x": 250,
+        "y": 1440,
+        "wires": []
+    },
+    {
+        "id": "3766c59ab1518f95",
+        "type": "ui_table",
+        "z": "a0db6ce034b30ef3",
+        "g": "ee15abc44773f48f",
+        "group": "0d406a78f17f7091",
+        "name": "",
+        "order": 8,
+        "width": 14,
+        "height": 15,
+        "columns": [
+            {
+                "field": "id",
+                "title": "id",
+                "width": "",
+                "align": "left",
+                "formatter": "plaintext",
+                "formatterParams": {
+                    "target": "_blank"
+                }
+            },
+            {
+                "field": "customer_name",
+                "title": "Name",
+                "width": "",
+                "align": "left",
+                "formatter": "plaintext",
+                "formatterParams": {
+                    "target": "_blank"
+                }
+            },
+            {
+                "field": "ice_block",
+                "title": "ice block",
+                "width": "",
+                "align": "left",
+                "formatter": "plaintext",
+                "formatterParams": {
+                    "target": "_blank"
+                }
+            },
+            {
+                "field": "date",
+                "title": "Date",
+                "width": "",
+                "align": "left",
+                "formatter": "plaintext",
+                "formatterParams": {
+                    "target": "_blank"
+                }
+            },
+            {
+                "field": "time",
+                "title": "time",
+                "width": "",
+                "align": "left",
+                "formatter": "plaintext",
+                "formatterParams": {
+                    "target": "_blank"
+                }
+            }
+        ],
+        "outputs": 1,
+        "cts": true,
+        "x": 910,
+        "y": 1720,
+        "wires": [
+            [
+                "c189faef3c24b0e4",
+                "60743161ce3b5f14"
+            ]
+        ]
+    },
+    {
+        "id": "df53b4eac10ca699",
+        "type": "function",
+        "z": "a0db6ce034b30ef3",
+        "g": "ee15abc44773f48f",
+        "name": "set flow for the table",
+        "func": "flow.set('id', msg.payload[0].id);\nflow.set('rfid_tag', msg.payload[0].rfid_tag)\nflow.set('customer_name', msg.payload[0].customer_name);\n// flow.set('date', msg.payload[0].date);\nflow.set('ice_block', msg.payload[0].ice_block);\nflow.set('time', msg.payload[0].time);\n\n",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 1000,
+        "y": 1600,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "428c7a9ae0c7b048",
+        "type": "comment",
+        "z": "a0db6ce034b30ef3",
+        "g": "fad2368d94a71127",
+        "name": "record to mysqq table",
+        "info": "",
+        "x": 220,
+        "y": 840,
+        "wires": []
+    },
+    {
+        "id": "cce41e5830bbb89e",
+        "type": "ui_text_input",
+        "z": "a0db6ce034b30ef3",
+        "g": "fad2368d94a71127",
+        "name": "",
+        "label": "ចំនួនទឹកកក",
+        "tooltip": "",
+        "group": "0d406a78f17f7091",
+        "order": 6,
+        "width": 0,
+        "height": 0,
+        "passthru": true,
+        "mode": "number",
+        "delay": 300,
+        "topic": "topic",
+        "sendOnBlur": true,
+        "className": "record",
+        "topicType": "msg",
+        "x": 530,
+        "y": 900,
+        "wires": [
+            [
+                "d61b880f7e801e85"
+            ]
+        ]
+    },
+    {
+        "id": "d61b880f7e801e85",
+        "type": "function",
+        "z": "a0db6ce034b30ef3",
+        "g": "fad2368d94a71127",
+        "name": "record ice block",
+        "func": "global.set('ice_block',msg.payload);\n\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 810,
+        "y": 900,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "981b38252a68f3f9",
+        "type": "mysql",
+        "z": "a0db6ce034b30ef3",
+        "g": "fad2368d94a71127",
+        "mydb": "fbeba6a9d3aaf521",
+        "name": "",
+        "x": 1950,
+        "y": 1120,
+        "wires": [
+            [
+                "d2f1db7314d802a4",
+                "429581741fb59c25"
+            ]
+        ]
+    },
+    {
+        "id": "6e1656c82c90d634",
+        "type": "function",
+        "z": "a0db6ce034b30ef3",
+        "g": "fad2368d94a71127",
+        "name": "record to mysql",
+        "func": "var time = global.get('time');\nvar date = global.get('date');\nvar customer_name = global.get('customer_name');\nvar ice_block = global.get('ice_block');\nvar rfid_tag = global.get(\"rfid\");\n\nmsg.topic = \"INSERT INTO `data_registration_driver`.`ice_block`(`rfid_tag`,`customer_name`,`ice_block`,`date`,`time`)VALUES('\"+rfid_tag+\"','\"+customer_name+\"',\"+ice_block+\",'\"+date+\"','\"+time+\"');\"\n\nreturn msg;\n\n",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 1720,
+        "y": 1120,
+        "wires": [
+            [
+                "981b38252a68f3f9"
+            ]
+        ]
+    },
+    {
+        "id": "d5450b08de19b958",
+        "type": "ui_button",
+        "z": "a0db6ce034b30ef3",
+        "g": "fad2368d94a71127",
+        "name": "",
+        "group": "0d406a78f17f7091",
+        "order": 7,
+        "width": 14,
+        "height": 2,
+        "passthru": false,
+        "label": " កត់ត្រា",
+        "tooltip": "",
+        "color": "",
+        "bgcolor": "",
+        "className": "btn",
+        "icon": "",
+        "payload": "",
+        "payloadType": "str",
+        "topic": "topic",
+        "topicType": "msg",
+        "x": 230,
+        "y": 980,
+        "wires": [
+            [
+                "39b1e2260c0d72a3"
+            ]
+        ]
+    },
+    {
+        "id": "d2f1db7314d802a4",
+        "type": "debug",
+        "z": "a0db6ce034b30ef3",
+        "g": "fad2368d94a71127",
+        "name": "debug 3",
+        "active": false,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "true",
+        "targetType": "full",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 2250,
+        "y": 1120,
+        "wires": []
+    },
+    {
+        "id": "ad28597e8a1ff1cc",
+        "type": "inject",
+        "z": "a0db6ce034b30ef3",
+        "g": "fad2368d94a71127",
+        "name": "",
+        "props": [
+            {
+                "p": "payload"
+            },
+            {
+                "p": "topic",
+                "vt": "str"
+            }
+        ],
+        "repeat": "",
+        "crontab": "",
+        "once": false,
+        "onceDelay": 0.1,
+        "topic": "",
+        "payload": "",
+        "payloadType": "date",
+        "x": 190,
+        "y": 1020,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "429581741fb59c25",
+        "type": "switch",
+        "z": "a0db6ce034b30ef3",
+        "g": "fad2368d94a71127",
+        "name": "",
+        "property": "topic",
+        "propertyType": "msg",
+        "rules": [
+            {
+                "t": "cont",
+                "v": "INSERT INTO",
+                "vt": "str"
+            },
+            {
+                "t": "cont",
+                "v": "UPDATE",
+                "vt": "str"
+            }
+        ],
+        "checkall": "true",
+        "repair": false,
+        "outputs": 2,
+        "x": 2130,
+        "y": 1060,
+        "wires": [
+            [
+                "553ce8588a3a1d65"
+            ],
+            [
+                "553ce8588a3a1d65"
+            ]
+        ]
+    },
+    {
+        "id": "553ce8588a3a1d65",
+        "type": "link out",
+        "z": "a0db6ce034b30ef3",
+        "g": "fad2368d94a71127",
+        "name": "record mysql table",
+        "mode": "link",
+        "links": [
+            "8589edd65885937d",
+            "623c895235fcf66c",
+            "7e555b1035ec138a"
+        ],
+        "x": 2245,
+        "y": 1180,
+        "wires": []
+    },
+    {
+        "id": "98c5639041a03384",
+        "type": "function",
+        "z": "a0db6ce034b30ef3",
+        "g": "ee15abc44773f48f",
+        "name": "get the data from the mysql tabel",
+        "func": "\nvar rfid = global.get('rfid');\nmsg.topic = \"SELECT * FROM data_registration_driver.ice_block WHERE rfid_tag = '\"+rfid+\"' ORDER BY id DESC LIMIT 1;\"\n\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 470,
+        "y": 1520,
+        "wires": [
+            [
+                "6e2bdc1ce01cee76"
+            ]
+        ]
+    },
+    {
+        "id": "6e2bdc1ce01cee76",
+        "type": "mysql",
+        "z": "a0db6ce034b30ef3",
+        "g": "ee15abc44773f48f",
+        "mydb": "fbeba6a9d3aaf521",
+        "name": "",
+        "x": 770,
+        "y": 1520,
+        "wires": [
+            [
+                "7e944fe4bac7f759",
+                "df53b4eac10ca699",
+                "76e6fda72b7b8c44"
+            ]
+        ]
+    },
+    {
+        "id": "7e944fe4bac7f759",
+        "type": "debug",
+        "z": "a0db6ce034b30ef3",
+        "g": "ee15abc44773f48f",
+        "name": "debug 4",
+        "active": false,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "false",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 1020,
+        "y": 1520,
+        "wires": []
+    },
+    {
+        "id": "6ecf9a154d41945d",
+        "type": "inject",
+        "z": "a0db6ce034b30ef3",
+        "g": "ee15abc44773f48f",
+        "name": "",
+        "props": [
+            {
+                "p": "payload"
+            },
+            {
+                "p": "topic",
+                "vt": "str"
+            }
+        ],
+        "repeat": "",
+        "crontab": "",
+        "once": false,
+        "onceDelay": 0.1,
+        "topic": "",
+        "payload": "",
+        "payloadType": "date",
+        "x": 240,
+        "y": 1520,
+        "wires": [
+            [
+                "98c5639041a03384"
+            ]
+        ]
+    },
+    {
+        "id": "b40a333ed64cdd32",
+        "type": "simpletime",
+        "z": "a0db6ce034b30ef3",
+        "g": "ee15abc44773f48f",
+        "name": "",
+        "mydate": false,
+        "myymd": true,
+        "myyear": false,
+        "mymonth": false,
+        "mymonthn": false,
+        "mydom": false,
+        "mydoy": false,
+        "myday": false,
+        "myhourpm": false,
+        "myhour": false,
+        "mytime": false,
+        "mytimes": false,
+        "myminute": false,
+        "myminutes": false,
+        "mysecond": false,
+        "mymillis": false,
+        "myepoch": false,
+        "myrawdate": false,
+        "mypm": false,
+        "x": 490,
+        "y": 1600,
+        "wires": [
+            [
+                "773253b369745691"
+            ]
+        ]
+    },
+    {
+        "id": "76e6fda72b7b8c44",
+        "type": "function",
+        "z": "a0db6ce034b30ef3",
+        "g": "ee15abc44773f48f",
+        "name": "convert date",
+        "func": "flow.set('date', msg.payload[0].date);\nvar date = flow.get('date');\nmsg.payload = date\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 330,
+        "y": 1600,
+        "wires": [
+            [
+                "b40a333ed64cdd32"
+            ]
+        ]
+    },
+    {
+        "id": "773253b369745691",
+        "type": "function",
+        "z": "a0db6ce034b30ef3",
+        "g": "ee15abc44773f48f",
+        "name": "set date to flow",
+        "func": "flow.set('date',msg.myymd)\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 680,
+        "y": 1600,
+        "wires": [
+            [
+                "bb9cc6af789e633d"
+            ]
+        ]
+    },
+    {
+        "id": "bb9cc6af789e633d",
+        "type": "function",
+        "z": "a0db6ce034b30ef3",
+        "g": "ee15abc44773f48f",
+        "name": "add or update to table",
+        "func": "var id = flow.get('id')\nvar rfid_tag = flow.get('rfid_tag')\nvar customer_name = flow.get('customer_name')\nvar date = flow.get('date');\nvar time = flow.get('time')\nvar ice_block = flow.get('ice_block')\n\n\n\nmsg.payload = {\n    command: \"updateOrAddData\",\n    arguments: [\n        [\n            {\n                \"id\": id,\n                \"customer_name\": customer_name,\n                \"ice_block\": ice_block,\n                \"time\": time,\n                \"date\": date\n            }\n        ]\n    ],\n    returnPromise: true\n}\nreturn msg;\n\n\n",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 600,
+        "y": 1720,
+        "wires": [
+            [
+                "3766c59ab1518f95"
+            ]
+        ]
+    },
+    {
+        "id": "c189faef3c24b0e4",
+        "type": "link out",
+        "z": "a0db6ce034b30ef3",
+        "g": "ee15abc44773f48f",
+        "name": "table link out",
+        "mode": "link",
+        "links": [
+            "798f2672fcda7091",
+            "ec602670db75cc67"
+        ],
+        "x": 1005,
+        "y": 1720,
+        "wires": []
+    },
+    {
+        "id": "798f2672fcda7091",
+        "type": "link in",
+        "z": "a0db6ce034b30ef3",
+        "g": "4ba4971ee866d46b",
+        "name": "link in 1",
+        "links": [
+            "c189faef3c24b0e4"
+        ],
+        "x": 155,
+        "y": 1940,
+        "wires": [
+            [
+                "113d443570f8239d",
+                "9d1bf73887cacf8c"
+            ]
+        ]
+    },
+    {
+        "id": "113d443570f8239d",
+        "type": "debug",
+        "z": "a0db6ce034b30ef3",
+        "g": "4ba4971ee866d46b",
+        "name": "debug 5",
+        "active": false,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "payload",
+        "targetType": "msg",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 260,
+        "y": 1940,
+        "wires": []
+    },
+    {
+        "id": "9d1bf73887cacf8c",
+        "type": "function",
+        "z": "a0db6ce034b30ef3",
+        "g": "4ba4971ee866d46b",
+        "name": "function 4",
+        "func": "flow.set('id', msg.payload.id) ;\nvar id = flow.get('id');\n\nmsg.topic =\"SELECT * FROM data_registration_driver.ice_block WHERE id = \"+id+\";\"\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 290,
+        "y": 2000,
+        "wires": [
+            [
+                "4518b3c04fdd0f5e"
+            ]
+        ]
+    },
+    {
+        "id": "4518b3c04fdd0f5e",
+        "type": "mysql",
+        "z": "a0db6ce034b30ef3",
+        "g": "4ba4971ee866d46b",
+        "mydb": "fbeba6a9d3aaf521",
+        "name": "",
+        "x": 500,
+        "y": 2000,
+        "wires": [
+            [
+                "b7bfafd38623a54c"
+            ]
+        ]
+    },
+    {
+        "id": "b7bfafd38623a54c",
+        "type": "function",
+        "z": "a0db6ce034b30ef3",
+        "g": "4ba4971ee866d46b",
+        "name": "function 5",
+        "func": "flow.set('tb_id', msg.payload[0].id);\n// flow.set('tb_rfid_tag', msg.payload[0].rfid_tag)\nflow.set('tb_customer_name', msg.payload[0].customer_name);\n// flow.set('date', msg.payload[0].date);\nflow.set('tb_ice_block', msg.payload[0].ice_block);\n// flow.set('time', msg.payload[0].time);\n\nvar id = flow.get('tb_id');\nvar customer_name = flow.get('tb_customer_name');\nvar ice_block = flow.get('tb_ice_block');\n\nvar msg1 = {payload: id};\nvar msg2 = {payload: customer_name};\nvar msg3 = {payload: ice_block};\n\n\n\n// msg.topic = \"UPDATE `data_registration_driver`.`ice_block`SET    `ice_block` = < { ice_block: } >,    WHERE`id` = < { expr } >;\"\nreturn [msg1,msg2,msg3];",
+        "outputs": 3,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 720,
+        "y": 2000,
+        "wires": [
+            [
+                "73f726a8252e6e7d"
+            ],
+            [
+                "b33c8a4a9959f42b"
+            ],
+            [
+                "70349327a98e0a1e"
+            ]
+        ]
+    },
+    {
+        "id": "4aadd9d8d8e90714",
+        "type": "ui_text_input",
+        "z": "a0db6ce034b30ef3",
+        "g": "0a6927b64e6c19a6",
+        "name": "",
+        "label": "rfid",
+        "tooltip": "",
+        "group": "0d406a78f17f7091",
+        "order": 4,
+        "width": 0,
+        "height": 0,
+        "passthru": true,
+        "mode": "text",
+        "delay": 300,
+        "topic": "topic",
+        "sendOnBlur": false,
+        "className": "",
+        "topicType": "msg",
+        "x": 230,
+        "y": 620,
+        "wires": [
+            [
+                "2b49181123ddf771"
+            ]
+        ]
+    },
+    {
+        "id": "8589edd65885937d",
+        "type": "link in",
+        "z": "a0db6ce034b30ef3",
+        "g": "ee15abc44773f48f",
+        "name": "link in 2",
+        "links": [
+            "553ce8588a3a1d65"
+        ],
+        "x": 245,
+        "y": 1480,
+        "wires": [
+            [
+                "98c5639041a03384"
+            ]
+        ]
+    },
+    {
+        "id": "8ef22bb42923de07",
+        "type": "comment",
+        "z": "a0db6ce034b30ef3",
+        "g": "4ba4971ee866d46b",
+        "name": "display update",
+        "info": "",
+        "x": 250,
+        "y": 1880,
+        "wires": []
+    },
+    {
+        "id": "73f726a8252e6e7d",
+        "type": "ui_text",
+        "z": "a0db6ce034b30ef3",
+        "g": "4ba4971ee866d46b",
+        "group": "efb52f8bbebead6d",
+        "order": 1,
+        "width": 0,
+        "height": 0,
+        "name": "",
+        "label": "id",
+        "format": "{{msg.payload}}",
+        "layout": "row-spread",
+        "className": "id",
+        "x": 890,
+        "y": 1940,
+        "wires": []
+    },
+    {
+        "id": "b33c8a4a9959f42b",
+        "type": "ui_text",
+        "z": "a0db6ce034b30ef3",
+        "g": "4ba4971ee866d46b",
+        "group": "efb52f8bbebead6d",
+        "order": 2,
+        "width": 0,
+        "height": 0,
+        "name": "",
+        "label": "ឈ្មោះ",
+        "format": "{{msg.payload}}",
+        "layout": "row-spread",
+        "className": "name",
+        "x": 890,
+        "y": 1980,
+        "wires": []
+    },
+    {
+        "id": "70349327a98e0a1e",
+        "type": "ui_text_input",
+        "z": "a0db6ce034b30ef3",
+        "g": "4ba4971ee866d46b",
+        "name": "",
+        "label": "ចំនួនទឹកកក",
+        "tooltip": "",
+        "group": "efb52f8bbebead6d",
+        "order": 4,
+        "width": 0,
+        "height": 0,
+        "passthru": true,
+        "mode": "number",
+        "delay": 300,
+        "topic": "topic",
+        "sendOnBlur": true,
+        "className": "record",
+        "topicType": "msg",
+        "x": 910,
+        "y": 2020,
+        "wires": [
+            [
+                "34d15c6b44893cac"
+            ]
+        ]
+    },
+    {
+        "id": "e33fe516b72d6077",
+        "type": "function",
+        "z": "a0db6ce034b30ef3",
+        "g": "4ba4971ee866d46b",
+        "name": "obtain the data from input and update",
+        "func": "var update_ice_block = flow.get('update_ice_block');\nvar id = flow.get('tb_id');\nmsg.topic = \"UPDATE `data_registration_driver`.`ice_block`SET    `ice_block` = \"+update_ice_block+\" WHERE`id` = \"+id+\";\"\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 390,
+        "y": 2140,
+        "wires": [
+            [
+                "9fcd0bb1347eb02a"
+            ]
+        ]
+    },
+    {
+        "id": "9fcd0bb1347eb02a",
+        "type": "mysql",
+        "z": "a0db6ce034b30ef3",
+        "g": "4ba4971ee866d46b",
+        "mydb": "fbeba6a9d3aaf521",
+        "name": "",
+        "x": 690,
+        "y": 2140,
+        "wires": [
+            [
+                "feebb0f586f35c13",
+                "233aac7f01187a2e"
+            ]
+        ]
+    },
+    {
+        "id": "feebb0f586f35c13",
+        "type": "debug",
+        "z": "a0db6ce034b30ef3",
+        "g": "4ba4971ee866d46b",
+        "name": "debug 6",
+        "active": false,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "false",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 920,
+        "y": 2140,
+        "wires": []
+    },
+    {
+        "id": "9a9cfea81577d4ce",
+        "type": "debug",
+        "z": "a0db6ce034b30ef3",
+        "g": "4ba4971ee866d46b",
+        "name": "debug 7",
+        "active": false,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "false",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 1190,
+        "y": 2080,
+        "wires": []
+    },
+    {
+        "id": "34d15c6b44893cac",
+        "type": "function",
+        "z": "a0db6ce034b30ef3",
+        "g": "4ba4971ee866d46b",
+        "name": "set update ice block",
+        "func": "flow.set('update_ice_block',msg.payload)\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 1160,
+        "y": 1980,
+        "wires": [
+            [
+                "9a9cfea81577d4ce"
+            ]
+        ]
+    },
+    {
+        "id": "7e59a1311a72f5ca",
+        "type": "ui_button",
+        "z": "a0db6ce034b30ef3",
+        "g": "4ba4971ee866d46b",
+        "name": "",
+        "group": "efb52f8bbebead6d",
+        "order": 5,
+        "width": 14,
+        "height": 2,
+        "passthru": false,
+        "label": "កែតម្រូវ",
+        "tooltip": "",
+        "color": "",
+        "bgcolor": "",
+        "className": "btn",
+        "icon": "",
+        "payload": "",
+        "payloadType": "str",
+        "topic": "topic",
+        "topicType": "msg",
+        "x": 220,
+        "y": 2220,
+        "wires": [
+            [
+                "e33fe516b72d6077"
+            ]
+        ]
+    },
+    {
+        "id": "bd938854d8fd5a1d",
+        "type": "function",
+        "z": "a0db6ce034b30ef3",
+        "g": "4ba4971ee866d46b",
+        "name": "update tabel ui",
+        "func": "var id = flow.get('tb_id');\nvar ice_block = flow.get('update_ice_block');\nmsg.payload = {\n    command: \"updateOrAddData\",\n    arguments: [\n        [\n            {\n                \"id\": id,\n                \"ice_block\": ice_block,\n            }\n        ]\n    ],\n    returnPromise: true\n}\nreturn msg;\n",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 580,
+        "y": 2240,
+        "wires": [
+            [
+                "f92a41c5aaa0f712"
+            ]
+        ]
+    },
+    {
+        "id": "233aac7f01187a2e",
+        "type": "switch",
+        "z": "a0db6ce034b30ef3",
+        "g": "4ba4971ee866d46b",
+        "name": "",
+        "property": "topic",
+        "propertyType": "msg",
+        "rules": [
+            {
+                "t": "cont",
+                "v": "UPDATE",
+                "vt": "str"
+            }
+        ],
+        "checkall": "true",
+        "repair": false,
+        "outputs": 1,
+        "x": 950,
+        "y": 2200,
+        "wires": [
+            [
+                "bd938854d8fd5a1d"
+            ]
+        ]
+    },
+    {
+        "id": "f92a41c5aaa0f712",
+        "type": "link out",
+        "z": "a0db6ce034b30ef3",
+        "g": "4ba4971ee866d46b",
+        "name": "update table",
+        "mode": "link",
+        "links": [
+            "33b4ad7d5665e42f",
+            "1ceaf5dacdf7a03a"
+        ],
+        "x": 725,
+        "y": 2260,
+        "wires": []
+    },
+    {
+        "id": "33b4ad7d5665e42f",
+        "type": "link in",
+        "z": "a0db6ce034b30ef3",
+        "g": "ee15abc44773f48f",
+        "name": "link in 3",
+        "links": [
+            "f92a41c5aaa0f712",
+            "dd3e5deb5ed542db",
+            "780f3f346650845c",
+            "e9e706f565b7235e"
+        ],
+        "x": 725,
+        "y": 1680,
+        "wires": [
+            [
+                "3766c59ab1518f95"
+            ]
+        ]
+    },
+    {
+        "id": "d35f77eabe56f575",
+        "type": "ui_template",
+        "z": "a0db6ce034b30ef3",
+        "group": "0d406a78f17f7091",
+        "name": "",
+        "order": 9,
+        "width": 0,
+        "height": 0,
+        "format": "<style>\n    .name{\n        font-size:40px !important\n    }\n    .clock{\n        font-size: 40px !important        \n    }\n    .date{\n        font-size: 40px !important        \n    }\n    .id{\n        font-size: 40px !important        \n    }\n    .record > .md-block{\n        font-size: 35px !important;\n        font-weight: 700 !important;\n    }\n    .record >md-input-container >.md-input{\n        height: 45px !important;\n    }\n    .btn > .md-raised{\n        font-size: 40px !important;\n    }\n    .tabulator-col-title{\n        font-size: 20px !important;\n    }\n    .tabulator-table{\n        font-size: 25px !important;\n    }\n\n</style>",
+        "storeOutMessages": true,
+        "fwdInMessages": true,
+        "resendOnRefresh": true,
+        "templateScope": "local",
+        "className": "",
+        "x": 320,
+        "y": 2760,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "8578932cc6730394",
+        "type": "function",
+        "z": "a0db6ce034b30ef3",
+        "g": "97d556f27767bac6",
+        "name": "delete from table",
+        "func": "\nvar id = flow.get('tb_id');\n\nmsg.payload = {\n    command: \"deleteRow\",\n    arguments: [id],\n    returnPromise: true\n}\nreturn msg;\n\n\n",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 410,
+        "y": 2640,
+        "wires": [
+            [
+                "e9e706f565b7235e"
+            ]
+        ]
+    },
+    {
+        "id": "207486ab2f2de184",
+        "type": "comment",
+        "z": "a0db6ce034b30ef3",
+        "g": "97d556f27767bac6",
+        "name": "delete row",
+        "info": "",
+        "x": 200,
+        "y": 2480,
+        "wires": []
+    },
+    {
+        "id": "7d416ec2fb309bd1",
+        "type": "ui_button",
+        "z": "a0db6ce034b30ef3",
+        "g": "97d556f27767bac6",
+        "name": "",
+        "group": "efb52f8bbebead6d",
+        "order": 6,
+        "width": 14,
+        "height": 2,
+        "passthru": false,
+        "label": "លុប",
+        "tooltip": "",
+        "color": "",
+        "bgcolor": "red",
+        "className": "btn",
+        "icon": "",
+        "payload": "",
+        "payloadType": "str",
+        "topic": "topic",
+        "topicType": "msg",
+        "x": 190,
+        "y": 2540,
+        "wires": [
+            [
+                "6346a6c4f01716c9",
+                "afa1df5e758dcf85"
+            ]
+        ]
+    },
+    {
+        "id": "6346a6c4f01716c9",
+        "type": "function",
+        "z": "a0db6ce034b30ef3",
+        "g": "97d556f27767bac6",
+        "name": "delete from mysql",
+        "func": "var id = flow.get('tb_id');\n\nmsg.topic = \"DELETE FROM `data_registration_driver`.`ice_block`WHERE id = \"+id+\";\"\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 390,
+        "y": 2540,
+        "wires": [
+            [
+                "f4715edaca7161b5"
+            ]
+        ]
+    },
+    {
+        "id": "f4715edaca7161b5",
+        "type": "mysql",
+        "z": "a0db6ce034b30ef3",
+        "g": "97d556f27767bac6",
+        "mydb": "fbeba6a9d3aaf521",
+        "name": "",
+        "x": 670,
+        "y": 2540,
+        "wires": [
+            [
+                "982f50922e1c270b",
+                "a8e77f04fbbaf221"
+            ]
+        ]
+    },
+    {
+        "id": "982f50922e1c270b",
+        "type": "switch",
+        "z": "a0db6ce034b30ef3",
+        "g": "97d556f27767bac6",
+        "name": "",
+        "property": "topic",
+        "propertyType": "msg",
+        "rules": [
+            {
+                "t": "cont",
+                "v": "DELETE FROM",
+                "vt": "str"
+            }
+        ],
+        "checkall": "true",
+        "repair": false,
+        "outputs": 1,
+        "x": 910,
+        "y": 2540,
+        "wires": [
+            [
+                "8578932cc6730394"
+            ]
+        ]
+    },
+    {
+        "id": "a8e77f04fbbaf221",
+        "type": "debug",
+        "z": "a0db6ce034b30ef3",
+        "g": "97d556f27767bac6",
+        "name": "debug 8",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "payload",
+        "targetType": "msg",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 930,
+        "y": 2600,
+        "wires": []
+    },
+    {
+        "id": "e9e706f565b7235e",
+        "type": "link out",
+        "z": "a0db6ce034b30ef3",
+        "g": "97d556f27767bac6",
+        "name": "table",
+        "mode": "link",
+        "links": [
+            "33b4ad7d5665e42f",
+            "33cc8f44da6120df"
+        ],
+        "x": 545,
+        "y": 2640,
+        "wires": []
+    },
+    {
+        "id": "92be33d019815c04",
+        "type": "inject",
+        "z": "a0db6ce034b30ef3",
+        "g": "97d556f27767bac6",
+        "name": "",
+        "props": [
+            {
+                "p": "payload"
+            },
+            {
+                "p": "topic",
+                "vt": "str"
+            }
+        ],
+        "repeat": "",
+        "crontab": "",
+        "once": false,
+        "onceDelay": 0.1,
+        "topic": "",
+        "payload": "",
+        "payloadType": "date",
+        "x": 190,
+        "y": 2660,
+        "wires": [
+            [
+                "8578932cc6730394"
+            ]
+        ]
+    },
+    {
+        "id": "60743161ce3b5f14",
+        "type": "debug",
+        "z": "a0db6ce034b30ef3",
+        "g": "ee15abc44773f48f",
+        "name": "debug 9",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "true",
+        "targetType": "full",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 1090,
+        "y": 1680,
+        "wires": []
+    },
+    {
+        "id": "e59ec3b636a668db",
+        "type": "function",
+        "z": "a0db6ce034b30ef3",
+        "g": "0a6927b64e6c19a6",
+        "name": "function 6",
+        "func": "msg.payload=\"\";\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 1040,
+        "y": 720,
+        "wires": [
+            [
+                "ffa8301427a50f58"
+            ]
+        ]
+    },
+    {
+        "id": "ffa8301427a50f58",
+        "type": "link out",
+        "z": "a0db6ce034b30ef3",
+        "g": "0a6927b64e6c19a6",
+        "name": "empty rfid",
+        "mode": "link",
+        "links": [
+            "0c43f3e0f68ba4cb",
+            "a38c87fb8c2e3633",
+            "56405720b9aee581",
+            "6b300b4862fb9f1b"
+        ],
+        "x": 1145,
+        "y": 720,
+        "wires": []
+    },
+    {
+        "id": "0c43f3e0f68ba4cb",
+        "type": "link in",
+        "z": "a0db6ce034b30ef3",
+        "g": "0a6927b64e6c19a6",
+        "name": "link in 4",
+        "links": [
+            "ffa8301427a50f58"
+        ],
+        "x": 135,
+        "y": 620,
+        "wires": [
+            [
+                "4aadd9d8d8e90714"
+            ]
+        ]
+    },
+    {
+        "id": "9279ec5a1f499e56",
+        "type": "function",
+        "z": "a0db6ce034b30ef3",
+        "g": "fad2368d94a71127",
+        "name": "function 7",
+        "func": "msg.payload = \"\";\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 360,
+        "y": 900,
+        "wires": [
+            [
+                "cce41e5830bbb89e"
+            ]
+        ]
+    },
+    {
+        "id": "623c895235fcf66c",
+        "type": "link in",
+        "z": "a0db6ce034b30ef3",
+        "g": "fad2368d94a71127",
+        "name": "link in 5",
+        "links": [
+            "553ce8588a3a1d65"
+        ],
+        "x": 185,
+        "y": 900,
+        "wires": [
+            [
+                "9279ec5a1f499e56"
+            ]
+        ]
+    },
+    {
+        "id": "985b6f3d937fb3fe",
+        "type": "function",
+        "z": "a0db6ce034b30ef3",
+        "g": "4ba4971ee866d46b",
+        "name": "send empty payload",
+        "func": "msg.payload = \" \";\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 650,
+        "y": 1900,
+        "wires": [
+            [
+                "73f726a8252e6e7d",
+                "b33c8a4a9959f42b",
+                "70349327a98e0a1e"
+            ]
+        ]
+    },
+    {
+        "id": "1ceaf5dacdf7a03a",
+        "type": "link in",
+        "z": "a0db6ce034b30ef3",
+        "g": "4ba4971ee866d46b",
+        "name": "link in 6",
+        "links": [
+            "f92a41c5aaa0f712"
+        ],
+        "x": 485,
+        "y": 1880,
+        "wires": [
+            [
+                "985b6f3d937fb3fe"
+            ]
+        ]
+    },
+    {
+        "id": "33cc8f44da6120df",
+        "type": "link in",
+        "z": "a0db6ce034b30ef3",
+        "g": "4ba4971ee866d46b",
+        "name": "link in 7",
+        "links": [
+            "e9e706f565b7235e"
+        ],
+        "x": 475,
+        "y": 1920,
+        "wires": [
+            [
+                "985b6f3d937fb3fe"
+            ]
+        ]
+    },
+    {
+        "id": "7e555b1035ec138a",
+        "type": "link in",
+        "z": "a0db6ce034b30ef3",
+        "g": "0a6927b64e6c19a6",
+        "name": "link in 8",
+        "links": [
+            "553ce8588a3a1d65"
+        ],
+        "x": 855,
+        "y": 720,
+        "wires": [
+            [
+                "e59ec3b636a668db"
+            ]
+        ]
+    },
+    {
+        "id": "28088b28c5431dd3",
+        "type": "comment",
+        "z": "a0db6ce034b30ef3",
+        "g": "a73da6955739f5ba",
+        "name": "get all data back",
+        "info": "",
+        "x": 1580,
+        "y": 1460,
+        "wires": []
+    },
+    {
+        "id": "09acac09f99fb720",
+        "type": "function",
+        "z": "a0db6ce034b30ef3",
+        "g": "a73da6955739f5ba",
+        "name": "function 8",
+        "func": "var date = global.get('date');\nmsg.topic = \"SELECT * FROM data_registration_driver.ice_block where date ='\"+date+\"' ;\";\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 1530,
+        "y": 1540,
+        "wires": [
+            [
+                "957d1a47b5bf6382"
+            ]
+        ]
+    },
+    {
+        "id": "957d1a47b5bf6382",
+        "type": "mysql",
+        "z": "a0db6ce034b30ef3",
+        "g": "a73da6955739f5ba",
+        "mydb": "fbeba6a9d3aaf521",
+        "name": "",
+        "x": 1750,
+        "y": 1540,
+        "wires": [
+            [
+                "ca7fa6039d939b0b",
+                "3766c59ab1518f95"
+            ]
+        ]
+    },
+    {
+        "id": "32b575af675d14ab",
+        "type": "inject",
+        "z": "a0db6ce034b30ef3",
+        "g": "a73da6955739f5ba",
+        "name": "",
+        "props": [
+            {
+                "p": "payload"
+            },
+            {
+                "p": "topic",
+                "vt": "str"
+            }
+        ],
+        "repeat": "",
+        "crontab": "",
+        "once": false,
+        "onceDelay": 0.1,
+        "topic": "",
+        "payload": "",
+        "payloadType": "date",
+        "x": 1490,
+        "y": 1720,
+        "wires": [
+            [
+                "09acac09f99fb720"
+            ]
+        ]
+    },
+    {
+        "id": "ca7fa6039d939b0b",
+        "type": "debug",
+        "z": "a0db6ce034b30ef3",
+        "g": "a73da6955739f5ba",
+        "name": "debug 10",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "false",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 1980,
+        "y": 1540,
+        "wires": []
+    },
+    {
+        "id": "7d6ead97e2ac05ee",
+        "type": "ui_button",
+        "z": "a0db6ce034b30ef3",
+        "g": "a73da6955739f5ba",
+        "name": "",
+        "group": "efb52f8bbebead6d",
+        "order": 6,
+        "width": 0,
+        "height": 0,
+        "passthru": false,
+        "label": "refresh",
+        "tooltip": "",
+        "color": "",
+        "bgcolor": "",
+        "className": "",
+        "icon": "",
+        "payload": "",
+        "payloadType": "str",
+        "topic": "topic",
+        "topicType": "msg",
+        "x": 1630,
+        "y": 1660,
+        "wires": [
+            [
+                "09acac09f99fb720"
+            ]
+        ]
+    },
+    {
+        "id": "49d5a414dc1735db",
+        "type": "catch",
+        "z": "a0db6ce034b30ef3",
+        "name": "",
+        "scope": [
+            "990b0545b353d080"
+        ],
+        "uncaught": false,
+        "x": 1330,
+        "y": 540,
+        "wires": [
+            [
+                "bdb07b5e829bf43f"
+            ]
+        ]
+    },
+    {
+        "id": "de1a3ddc49c749db",
+        "type": "catch",
+        "z": "a0db6ce034b30ef3",
+        "g": "4ba4971ee866d46b",
+        "name": "",
+        "scope": [
+            "9d1bf73887cacf8c"
+        ],
+        "uncaught": false,
+        "x": 1390,
+        "y": 2140,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "bdb07b5e829bf43f",
+        "type": "debug",
+        "z": "a0db6ce034b30ef3",
+        "name": "debug 11",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "false",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 1520,
+        "y": 520,
+        "wires": []
+    },
+    {
+        "id": "467bb6230fdd43eb",
+        "type": "catch",
+        "z": "a0db6ce034b30ef3",
+        "name": "",
+        "scope": [
+            "ba164b0043c2cbf3"
+        ],
+        "uncaught": false,
+        "x": 1330,
+        "y": 620,
+        "wires": [
+            [
+                "bdb07b5e829bf43f"
+            ]
+        ]
+    },
+    {
+        "id": "6b300b4862fb9f1b",
+        "type": "link in",
+        "z": "a0db6ce034b30ef3",
+        "g": "0a6927b64e6c19a6",
+        "name": "link in 9",
+        "links": [
+            "ffa8301427a50f58"
+        ],
+        "x": 805,
+        "y": 580,
+        "wires": [
+            [
+                "9eaffe53f7590a3d"
+            ]
+        ]
+    },
+    {
+        "id": "39b1e2260c0d72a3",
+        "type": "function",
+        "z": "a0db6ce034b30ef3",
+        "g": "fad2368d94a71127",
+        "name": "check existing of the data",
+        "func": "var cur_date = global.get('date');\nvar rfid = global.get(\"rfid\");\n\nmsg.topic = \"SELECT EXISTS(SELECT * FROM data_registration_driver.ice_block WHERE date = '\"+cur_date+\"' && rfid_tag = '\"+rfid+\"' )\";\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 450,
+        "y": 1140,
+        "wires": [
+            [
+                "601ed82179a1ef6a"
+            ]
+        ]
+    },
+    {
+        "id": "601ed82179a1ef6a",
+        "type": "mysql",
+        "z": "a0db6ce034b30ef3",
+        "g": "fad2368d94a71127",
+        "mydb": "fbeba6a9d3aaf521",
+        "name": "",
+        "x": 720,
+        "y": 1140,
+        "wires": [
+            [
+                "82b16bf3fb3acf01",
+                "6f7e3232bbdf39d5"
+            ]
+        ]
+    },
+    {
+        "id": "82b16bf3fb3acf01",
+        "type": "debug",
+        "z": "a0db6ce034b30ef3",
+        "g": "fad2368d94a71127",
+        "name": "debug 12",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "false",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 1140,
+        "y": 1080,
+        "wires": []
+    },
+    {
+        "id": "38f1c0c682e96b7d",
+        "type": "inject",
+        "z": "a0db6ce034b30ef3",
+        "g": "fad2368d94a71127",
+        "name": "",
+        "props": [
+            {
+                "p": "payload"
+            },
+            {
+                "p": "topic",
+                "vt": "str"
+            }
+        ],
+        "repeat": "",
+        "crontab": "",
+        "once": false,
+        "onceDelay": 0.1,
+        "topic": "",
+        "payload": "",
+        "payloadType": "date",
+        "x": 220,
+        "y": 1140,
+        "wires": [
+            [
+                "39b1e2260c0d72a3"
+            ]
+        ]
+    },
+    {
+        "id": "6f7e3232bbdf39d5",
+        "type": "function",
+        "z": "a0db6ce034b30ef3",
+        "g": "fad2368d94a71127",
+        "name": "check the exiting of the data",
+        "func": "var rfid = global.get('rfid');\nvar date = global.get('date');\n\nif (msg.payload[0][\"EXISTS(SELECT * FROM data_registration_driver.ice_block WHERE date = '\"+date+\"' && rfid_tag = '\"+rfid+\"' )\"] == 1){\n    msg.topic = \"SELECT * FROM data_registration_driver.ice_block where rfid_tag = '\"+rfid+\"' && date = '\"+date+\"';\"\n    \n    return msg;\n};\nif (msg.payload[0][\"EXISTS(SELECT * FROM data_registration_driver.ice_block WHERE date = '\"+date+\"' && rfid_tag = '\"+rfid+\"' )\"] == 0){\n    msg.topic = \"SELECT * FROM data_registration_driver.ice_block where rfid_tag = '\"+rfid+\"' && date = '\"+date+\"';\"\n    \n    return msg;\n};\n\n\n\n",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 1100,
+        "y": 1140,
+        "wires": [
+            [
+                "1784a38088855ede"
+            ]
+        ]
+    },
+    {
+        "id": "1784a38088855ede",
+        "type": "mysql",
+        "z": "a0db6ce034b30ef3",
+        "g": "fad2368d94a71127",
+        "mydb": "fbeba6a9d3aaf521",
+        "name": "",
+        "x": 1380,
+        "y": 1140,
+        "wires": [
+            [
+                "cf9b22a13cb3bb0c",
+                "814ac7f92665f96a"
+            ]
+        ]
+    },
+    {
+        "id": "cf9b22a13cb3bb0c",
+        "type": "debug",
+        "z": "a0db6ce034b30ef3",
+        "g": "fad2368d94a71127",
+        "name": "debug 13",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "true",
+        "targetType": "full",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 1580,
+        "y": 1220,
+        "wires": []
+    },
+    {
+        "id": "814ac7f92665f96a",
+        "type": "switch",
+        "z": "a0db6ce034b30ef3",
+        "g": "fad2368d94a71127",
+        "name": "",
+        "property": "payload",
+        "propertyType": "msg",
+        "rules": [
+            {
+                "t": "nempty"
+            },
+            {
+                "t": "empty"
+            }
+        ],
+        "checkall": "true",
+        "repair": false,
+        "outputs": 2,
+        "x": 1570,
+        "y": 1060,
+        "wires": [
+            [
+                "d3fd7b87dde4dec7"
+            ],
+            [
+                "6e1656c82c90d634"
+            ]
+        ]
+    },
+    {
+        "id": "d3fd7b87dde4dec7",
+        "type": "function",
+        "z": "a0db6ce034b30ef3",
+        "g": "fad2368d94a71127",
+        "name": "if there is data",
+        "func": "flow.set(\"update_ice_block\", msg.payload[0].rfid_tag);\nflow.set(\"update_id\", msg.payload[0].id);\nflow.set('current_ice_block', msg.payload[0].ice_block)\n\nvar update_ice_block = global.get(\"ice_block\"); // additional ice block\nvar current_ice_block = flow.get(\"current_ice_block\") // current ice block\nvar id = flow.get('update_id');\n\nvar new_ice_block = update_ice_block + current_ice_block; // new ice block\n\nmsg.topic = \"UPDATE `data_registration_driver`.`ice_block`SET`ice_block` = \"+new_ice_block+\" WHERE`id` = \"+id+\"\"\n\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 1740,
+        "y": 1060,
+        "wires": [
+            [
+                "3aef94fe447979c3",
+                "56dd4533f81d7b84"
+            ]
+        ]
+    },
+    {
+        "id": "3aef94fe447979c3",
+        "type": "mysql",
+        "z": "a0db6ce034b30ef3",
+        "g": "fad2368d94a71127",
+        "mydb": "fbeba6a9d3aaf521",
+        "name": "",
+        "x": 1950,
+        "y": 1060,
+        "wires": [
+            [
+                "8696ad04c13cef13",
+                "429581741fb59c25"
+            ]
+        ]
+    },
+    {
+        "id": "8696ad04c13cef13",
+        "type": "debug",
+        "z": "a0db6ce034b30ef3",
+        "g": "fad2368d94a71127",
+        "name": "debug 14",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "payload",
+        "targetType": "msg",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 2150,
+        "y": 980,
+        "wires": []
+    },
+    {
+        "id": "56dd4533f81d7b84",
+        "type": "debug",
+        "z": "a0db6ce034b30ef3",
+        "g": "fad2368d94a71127",
+        "name": "debug 15",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "false",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 1870,
+        "y": 920,
+        "wires": []
+    },
+    {
+        "id": "afa1df5e758dcf85",
+        "type": "ui_toast",
+        "z": "a0db6ce034b30ef3",
+        "g": "97d556f27767bac6",
+        "position": "dialog",
+        "displayTime": "3",
+        "highlight": "",
+        "sendall": false,
+        "outputs": 1,
+        "ok": "លុប",
+        "cancel": "មិនលុប",
+        "raw": false,
+        "className": "notification",
+        "topic": "",
+        "name": "",
+        "x": 570,
+        "y": 2480,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "ec602670db75cc67",
+        "type": "link in",
+        "z": "a0db6ce034b30ef3",
+        "g": "4ba4971ee866d46b",
+        "name": "5 second to clear the delete",
+        "links": [
+            "c189faef3c24b0e4"
+        ],
+        "x": 375,
+        "y": 1820,
+        "wires": [
+            [
+                "fe359bb3ebc89f93"
+            ]
+        ]
+    },
+    {
+        "id": "fe359bb3ebc89f93",
+        "type": "delay",
+        "z": "a0db6ce034b30ef3",
+        "g": "4ba4971ee866d46b",
+        "name": "",
+        "pauseType": "delay",
+        "timeout": "4",
+        "timeoutUnits": "seconds",
+        "rate": "1",
+        "nbRateUnits": "1",
+        "rateUnits": "second",
+        "randomFirst": "1",
+        "randomLast": "5",
+        "randomUnits": "seconds",
+        "drop": false,
+        "allowrate": false,
+        "outputs": 1,
+        "x": 460,
+        "y": 1840,
+        "wires": [
+            [
+                "985b6f3d937fb3fe"
+            ]
+        ]
+    }
+]
